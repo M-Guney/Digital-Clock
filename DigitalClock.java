@@ -2,7 +2,7 @@ package DigitalClock;
 
 import java.time.LocalTime;
 
-public class DigitalClock {
+public class Digital_Clock {
 
     public static String Digitalize() {
             String h = String.valueOf(LocalTime.now().getHour());
